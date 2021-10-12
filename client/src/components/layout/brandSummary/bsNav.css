@@ -1,0 +1,60 @@
+.nav-style {
+    min-height: 200px;
+    background-color: rgb(19, 19, 19);
+}
+.nav-text{
+    padding-top: 25px !important;
+    color: rgb(255, 255, 255)!important;
+    font-size: 40px;
+    font-family: 'Ragila';
+  }
+
+  #our-nav{
+      text-align: center !important;
+      align-content: center ;
+  }
+
+  #image-size{
+      height: 100px;
+      width: 152px;
+  }
+  .DDs{
+      margin:3%;
+  }
+  #adminLink{
+    color:white;
+    border:1px solid white;
+    border-radius: 5px;
+    margin-right:1em;
+    padding:.375em
+  }
+  #adminLink:hover{
+    color: black;
+    background-color: white;
+    
+  }
+
+  @media only screen and (max-width: 993px){
+      .resp-logo {
+        visibility: hidden;
+        /* display: none !important; */
+        height: 1px !important;
+        width: auto;
+      }
+      .resp-link {
+          color: rgb(0, 122, 126)  !important;
+          display: inline-block;
+          margin: 0;
+          padding: 0;
+      }
+      .account-link {
+        position: absolute;
+        top: 55%;
+    }
+  }
+
+@media only screen and (min-width: 994px){
+  .mobile-logo {
+      visibility: hidden
+  }
+}

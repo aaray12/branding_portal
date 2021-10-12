@@ -1,0 +1,84 @@
+#logIn{
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+}
+#lgPasswordL{
+    position: relative;
+    right:.95em
+}
+.lgEmailI{
+    position: relative;
+    left:.95em
+}
+.incorrect{
+    position: absolute;
+    color:red
+}
+#regDiv{
+    text-align: center;
+    margin-top: 10em;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.label{
+    text-align: left;
+}
+.regInput{
+    position: relative;
+    left: 2em
+}
+#confirm{
+    position: relative;
+    right: 2.75em
+}
+#passwordL{
+    position: relative;
+    right: .8em
+}
+.password{
+    position: relative;
+    left: 1.05em
+}
+.confirm{
+    position: relative;
+    right: .9em
+}
+.nameL{
+    position: relative;
+    left: 1.9em
+}
+.su{
+    border: 2px solid #1273de;
+    border-radius: 5px;
+}
+.su:hover{
+    border: 2px solid #1273de;
+    color: white;
+    background-color:#1273de ;
+    border-radius: 5px;
+}
+#savedDiv{
+    text-align: center;
+    margin: auto;
+    margin-top: 10em;
+}
+#regName{
+    position: relative;
+    right:2em;
+}
+#regEmail{
+    position: relative;
+    right:.2em;
+}
+#regPassword{
+    position: relative;
+    right: 4.5em
+}
+#reguserType{
+    position: relative;
+    right: 3.9em
+}
+.regItems{
+    margin-left:1em
+}

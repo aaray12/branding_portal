@@ -1,0 +1,52 @@
+
+.mainDiv{
+  align-content: center;
+  widows: 66%;
+  margin: auto;
+  margin-top:20%;
+  
+    
+}
+#buttonRow{
+    width:66%;
+    margin: auto;
+}
+#llText{
+    color: rgb(101, 101, 101);
+    font-size:150%;
+}
+#ulText{
+    font-size: 136%;
+}
+#reg{
+    color:black;
+    width: "140px";
+    border: 2px solid rgb(51, 134, 206);
+    border-radius: 5px;
+    letter-spacing: "1.5px";
+    padding: 5%;
+    
+}
+#reg:hover{
+    color:black;
+    background-color: rgb(51, 134, 206);
+}
+#log{
+    color:black;
+    /* width: 10px; */
+    /* margin:1em; */
+    border: 2px solid rgb(51, 134, 206);
+    border-radius: 5px;
+    letter-spacing: "1.5px";
+    padding: 5%;
+    align-content: center;
+
+}
+#log:hover{
+    color:white;
+    background-color: rgb(51, 134, 206);
+}
+#logDiv{
+    align-content: center;
+
+}

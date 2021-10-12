@@ -1,0 +1,27 @@
+.pains{
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+   
+}
+.gains{
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+.topRow{
+    border-bottom: solid;
+}
+.bottomRow{
+    padding-top: 2%;
+}
+.swotHeading{
+    width:50%;
+    margin:auto;
+    border-bottom: 2px solid grey;
+}
+/* .swotRow{
+    width:100%;
+    margin:auto;
+    border-bottom: 2px solid grey;
+} */

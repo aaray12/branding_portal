@@ -1,0 +1,46 @@
+{
+  "name": "mern-auth",
+  "version": "1.0.0",
+  "description": "Mern Auth Example",
+  "main": "server.js",
+  "engines": {
+    "node": "14.x",
+    "npm": "7.x"
+  },
+  "scripts": {
+    "client-install": "npm install --prefix client",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.6.0",
+    "cloudinary": "^1.26.2",
+    "cloudinary-react": "^1.7.0",
+    "concurrently": "^4.0.1",
+    "core-util-is": "^1.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.4",
+    "hex-rgb": "^5.0.0",
+    "is-empty": "^1.2.0",
+    "jsonwebtoken": "^8.3.0",
+    "mongojs": "^3.1.0",
+    "mongoose": "^5.3.11",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "react-bootstrap": "^1.5.2",
+    "react-chartjs-2": "^2.11.1",
+    "request": "^2.88.2",
+    "validator": "^10.9.0"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
+  }
+}

@@ -1,0 +1,130 @@
+.brandCols{
+    text-align: left;
+    border-right: 3px solid gray;
+    margin-left: 1em;
+}
+#colMarketing{
+    border-right: none;
+}
+.editableItems{
+    color: black;
+    position: relative;
+    left: 2em
+}
+.editableItems:hover{
+    color: #1273de;
+    position: relative;
+    left: 2em;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: larger;
+}
+.compHeader{
+    text-align: left;
+    position: relative;
+    left: .6em;
+}
+.colHeader{
+    text-align: center;
+    border-bottom: 2px solid gray;
+    margin-top: 1em;
+    padding-bottom: .25em;
+}
+#brandSelect{
+    text-align: center;
+    margin: auto;
+}
+#bSelect{
+    text-align: center;
+    margin: auto;
+    width: 100%
+}
+#brandEdit{
+    text-align: center;
+    width: 95%;
+    margin: auto;
+    line-height: 2.0;
+}
+.brandCards{
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    display: inline-grid;
+}
+#regUser{
+    border: 2px solid #1273de;
+    border-radius: 5px;
+    padding:.5em;
+    position: relative;
+    top: .1em;
+    
+}
+#regUser:hover{
+    color: blanchedalmond;
+    background-color: #1273de ;
+    border: 2px solid #1273de;
+    border-radius: 5px;
+    padding:.5em;
+    text-decoration: none;
+}
+#dButtons{
+    text-align: center;
+    margin: 3em;
+}
+.dButton{
+    margin: 2em;
+}
+#abButton:hover{
+    background-color: whitesmoke;
+    color:  #1273de;
+}
+#influenesh5{
+position: relative;
+left: 1em;
+margin-top: .5em;
+
+}
+#externalHead{
+    margin-top: 1em;
+}
+#visualHead{
+    margin-top: .5em;
+}
+#audBorder{
+    text-align: center;
+    width: 66%;
+    border-bottom: 3px solid lightgray;
+    margin: auto;
+    margin-top: .5em;
+    margin-bottom: 1em;
+}
+.bdButton{
+    text-align: center;
+    margin: auto;
+    margin-top: .25em;
+}
+#addAudBtn{
+    text-align: center;
+    margin: auto;
+}
+.HBS{
+    /* margin: auto; */
+    border-bottom: 2px solid lightgray;
+}
+#influh5{
+    margin: auto;
+    font-size: x-large;
+    border-bottom: 2px solid lightgray;
+    padding-bottom: .2em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+
+}
+#comph2{
+    margin-top: 1em;
+}
+#swotBorder{
+    border-bottom: 3px solid lightgray;
+    width: 100%;
+    margin-bottom: 1em;
+}

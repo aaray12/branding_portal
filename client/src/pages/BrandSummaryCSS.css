@@ -1,0 +1,101 @@
+.cDot{
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    display: inline-block;
+}
+.colors{
+    display: inline-block;
+    margin: 2%;
+    text-align: center;
+}
+.allCDiv{
+    border-bottom: 5px solid grey;
+    text-align:center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width:66%;
+    margin: auto;
+}
+.ddDiv{
+    text-align:center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin: auto;
+    width: 66%;
+}
+.mainDiv{
+    text-align:center;
+}
+#bName{
+    border-bottom: 5px solid grey;
+    width: 33%;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.heading{
+    border-bottom: 2px solid rgb(184, 184, 184);
+    width: 10%;
+    margin: auto;
+}
+#mission{
+    margin-top: 2%;
+}
+#values{
+    padding-bottom: 1.5%;
+    border-bottom: 5px solid grey;
+    width: 66%;
+}
+#ddList{
+    text-align: left;
+}
+.audDivs{
+    width:66%;
+    margin:auto;
+    border-bottom: 5px solid grey;
+}
+#audTitle{
+    margin:auto;
+    margin-top:1.5%;
+    padding-bottom:1%;
+    border-bottom: 5px solid grey;
+    width:12%;
+}
+#compLogos{
+    padding-bottom: 1.5%;
+    border-bottom: 5px solid grey;
+    width: 66%;
+    margin: auto
+}
+#graph{
+    padding-bottom: 1.5%;
+    border-bottom: 5px solid grey;
+    width: 60%;
+    margin: auto
+}
+#compDivs{
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 66%
+}
+#Header{
+    text-align: center;
+   
+}
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(50%);
+}
+#loading{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%;
+    text-align: center;
+} 
+.loading{
+    display: inline-block;
+}
