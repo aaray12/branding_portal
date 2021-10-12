@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI: "mongodb+srv://admin:digital@convergenx-portal.7xmpf.mongodb.net/convergenx_portal?retryWrites=true&w=majority",
+  mongoURI: "mongodb+srv://aaron:abiyoyo12@branding-portal.6mzdk.mongodb.net/branding-portal?retryWrites=true&w=majority",
   secretOrKey: "secret"
 };
