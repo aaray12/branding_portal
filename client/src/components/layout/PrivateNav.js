@@ -22,7 +22,7 @@ function PrivateNav(props) {
   </Navbar>
   <br /> */}
   <Navbar bg="primary" variant="dark">
-    <Navbar.Brand href="/dashboard">Convergenx</Navbar.Brand>
+    <Navbar.Brand href="/dashboard">Branding Portal</Navbar.Brand>
     <Nav className="mr-auto">
       <Nav.Link href="/dashboard">Home</Nav.Link>
       <Nav.Link href="/comp">Graph</Nav.Link>

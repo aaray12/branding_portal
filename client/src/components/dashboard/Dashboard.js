@@ -175,7 +175,7 @@ function Dashboard(props) {
                 <b>Hey there,</b> {user.name.split(" ")[0]}
                 <p className="flow-text grey-text text-darken-1">
                   You are logged into the{" "}
-                  <span>Convergenx Portal </span>👏
+                  <span>Branding Portal</span>👏
             </p>
               </h4>
             </div>

@@ -23,7 +23,7 @@ function Mynavbar(props) {
             className="col s5 brand-logo center black-text"
           >
             {/* <i className="material-icons">code</i> */}
-              Convergenx
+            Branding Portal
             </Link>
           <button
             style={{
